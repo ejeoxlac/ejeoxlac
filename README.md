@@ -1,3 +1,3 @@
-# 👋 Hi, I’m @ejeoxlac o menjor en español quien sabe ༼ つ ◕_◕ ༽つ
+# 👋 Hi, I’m @ejeoxlac o mejor en español quien sabe ༼ つ ◕_◕ ༽つ
 
 👀 la verdad soy un loco en la informatica que no le gusta ver videos y prefiere sufrir leyendo o usando la documentación...
