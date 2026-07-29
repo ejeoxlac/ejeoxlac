@@ -23,9 +23,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Ejeoxlac&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ejeoxlac&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejeoxlac&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Ejeoxlac&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ejeoxlac&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ejeoxlac&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ejeoxlac&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
