@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<table width="100%">
+<table align="center" width="100%" cellpadding="16" cellspacing="0" style="width: 100%; min-width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="50%" valign="top">
       <h4>💻 Programming Languages</h4>
