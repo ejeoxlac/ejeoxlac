@@ -48,8 +48,12 @@
 
 </div>
 
+<div align="center">
+
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=ejeoxlac&theme=yeblu&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
