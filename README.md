@@ -29,14 +29,14 @@
       <img src="https://skillicons.dev/icons?i=sqlite,mysql,md&theme=dark&perline=8" alt="SQLite, MySQL and Markdown" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server" />
       <br/><br/>
-      <sub>SQLite • MySQL • Microsoft SQL Server • Markdown</sub>
+      <sub>SQLite • MySQL • Markdown • Microsoft SQL Server</sub>
     </td>
     <td align="center" width="50%" valign="top">
       <h4>🎨 Design &amp; 3D Modeling</h4>
       <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=8" alt="Blender" />
       <img src="https://cdn.simpleicons.org/krita/EEF37B" width="48" height="48" alt="Krita" />
       <br/><br/>
-      <sub>Krita • Blender</sub>
+      <sub>Blender • Krita</sub>
     </td>
   </tr>
   <tr>
@@ -52,14 +52,44 @@
 </div>
 
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-![](https://github-readme-stats.shion.dev/api?username=Ejeoxlac&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ejeoxlac&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ejeoxlac&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ejeoxlac&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ejeoxlac&theme=yeblu&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ejeoxlac&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 📡 Authenticated Comms &amp; Contact Deck
+
+<br/>
+
+<p align="center">
+  <a href="https://ejeoxlac.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00ff9d?style=for-the-badge&logo=vercel&logoColor=black&labelColor=020617" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ejeoxlac" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00f3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ejeoxlac" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@ejeoxlac-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=020617" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/ejeoxlac" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=020617" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://reddit.com/user/Ejeoxlac" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-Join%20the%20Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=020617" alt="Reddit" />
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@ejeoxlac" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=020617" alt="TikTok" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ejeoxlac" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Engineering-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="GitHub" />
+  </a>
+</p>
+
+</div>
