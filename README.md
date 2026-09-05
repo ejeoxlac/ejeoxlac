@@ -1,11 +1,11 @@
 # 💫 About Me:
 👋 Hi, I’m @ejeoxlac o mejor en español quien sabe ༼ つ ◕_◕ ༽つ<br>👀 la verdad soy un loco de la informática que no le gusta ver videos y prefiere sufrir leyendo o usando la documentación...<br><br>Sobre mí:<br>👋 Soy un programador de 22 años de Venezuela 🙃. Mi pasión por la tecnología y el desarrollo me impulsa a aprender constantemente y a superar desafíos. Me considero un entusiasta colaborador y estoy ansioso por participar en proyectos.<br><br>Lo que ofrezco:<br>Curiosidad insaciable: Siempre estoy buscando aprender nuevas tecnologías y enriquecer mis habilidades.<br>Colaboración activa: Disfruto trabajando en equipo y contribuyendo al éxito colectivo.<br>Resolución de problemas: Encuentro soluciones creativas para los desafíos técnicos y nunca me rindo para conseguir la solución del mismo..<br>Pasión por el código limpio: Me esfuerzo por escribir código legible y eficiente.<br><br>Mis intereses:<br>Desarrollo web: Me encanta crear aplicaciones web interactivas aun que siempre termino desechando las ideas 😵.<br>Linux: A veces me gusta trabajar mis proyectos en este sistema y además de aprender del mismo.<br>Open source: Creo en la comunidad de código abierto y que de estos se puede aprender a crecer.<br><br>Siempre estoy abierto a nuevas oportunidades y emocionado por lo que el futuro tiene reservado 🚀.
 
-# 🛠️ My Tech Arsenal
-
 <div align="center">
 
-<table align="center" width="100%" cellpadding="16" cellspacing="0" style="width: 100%; min-width: 100%; table-layout: fixed;">
+<h1>🛠️ My Tech Arsenal</h1>
+
+<table align="center" width="100%" cellpadding="16" cellspacing="0" style="display: table; width: 100%; min-width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="50%" valign="top">
       <h4>💻 Programming Languages</h4>
