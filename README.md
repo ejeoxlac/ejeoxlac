@@ -8,12 +8,14 @@
 <table align="center" width="100%" cellpadding="16" cellspacing="0" style="display: table; width: 100%; min-width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="50%" valign="top">
+      <img src="./table-spacer.svg" width="360" height="1" alt="" />
       <h4>💻 Programming Languages</h4>
       <img src="https://skillicons.dev/icons?i=python,cs,java,js&theme=dark&perline=8" alt="Programming Languages" />
       <br/><br/>
       <sub>Python • C# • Java • JavaScript</sub>
     </td>
     <td align="center" width="50%" valign="top">
+      <img src="./table-spacer.svg" width="360" height="1" alt="" />
       <h4>🌐 Web Development</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark&perline=8" alt="Web Development" />
       <br/><br/>
@@ -22,6 +24,7 @@
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
+      <img src="./table-spacer.svg" width="360" height="1" alt="" />
       <h4>💾 Databases &amp; Documentation</h4>
       <img src="https://skillicons.dev/icons?i=sqlite,mysql,md&theme=dark&perline=8" alt="SQLite, MySQL and Markdown" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server" />
@@ -29,6 +32,7 @@
       <sub>SQLite • MySQL • Markdown • Microsoft SQL Server</sub>
     </td>
     <td align="center" width="50%" valign="top">
+      <img src="./table-spacer.svg" width="360" height="1" alt="" />
       <h4>🎨 Design &amp; 3D Modeling</h4>
       <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=8" alt="Blender" />
       <img src="https://cdn.simpleicons.org/krita/EEF37B" width="48" height="48" alt="Krita" />
