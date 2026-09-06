@@ -65,6 +65,30 @@
 
 <div align="center">
 
+### GitHub Achievements
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" /><br/>
+      <b>Quickdraw</b><br/>
+      <sub>Closed within 5 minutes</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" /><br/>
+      <b>Pull Shark</b><br/>
+      <sub>Merged pull requests</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📡 Authenticated Comms &amp; Contact Deck
 
 <br/>
