@@ -31,10 +31,10 @@
     <td align="center" width="50%" valign="top">
       <img src="./table-spacer.svg" width="360" height="1" alt="" />
       <h4>💾 Databases &amp; Documentation</h4>
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql,md&theme=dark&perline=8" alt="SQLite, MySQL and Markdown" />
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,md&theme=dark&perline=8" alt="SQLite, MySQL, PostgreSQL and Markdown" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server" />
       <br/><br/>
-      <sub>SQLite • MySQL • Markdown • Microsoft SQL Server</sub>
+      <sub>SQLite • MySQL • PostgreSQL • Markdown • Microsoft SQL Server</sub>
     </td>
     <td align="center" width="50%" valign="top">
       <img src="./table-spacer.svg" width="360" height="1" alt="" />
@@ -51,6 +51,16 @@
       <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark&perline=8" alt="Operating Systems" />
       <br/><br/>
       <sub>Windows • Linux</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h4>🛠️ Tools &amp; DevOps</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,vercel&theme=dark&perline=8" alt="Git, GitHub, VS Code, NPM, PNPM and Vercel" />
+      <img src="./coolify.svg" width="48" height="48" alt="Coolify" />
+      <img src="./cursor.svg" width="48" height="48" alt="Cursor" />
+      <br/><br/>
+      <sub>Git • GitHub • VS Code • NPM • PNPM • Vercel • Coolify • Cursor</sub>
     </td>
   </tr>
 </table>
