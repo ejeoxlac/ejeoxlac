@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./e_icono.svg" alt="Logo personal de Ejeoxlac" width="180" />
+
 # 💫 About Me:
 
 </div>
